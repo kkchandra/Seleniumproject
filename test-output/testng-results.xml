@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24082" started-at="2019-07-03T16:43:05Z" finished-at="2019-07-03T16:43:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24082" started-at="2019-07-03T16:43:05Z" finished-at="2019-07-03T16:43:29Z">
+      <class name="airlinemainpage.aamain">
+        <test-method status="PASS" signature="prerequest()[pri:0, instance:airlinemainpage.aamain@61832929]" name="prerequest" is-config="true" duration-ms="839" started-at="2019-07-03T16:43:05Z" finished-at="2019-07-03T16:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequest -->
+        <test-method status="PASS" signature="t1()[pri:0, instance:airlinemainpage.aamain@61832929]" name="t1" duration-ms="23213" started-at="2019-07-03T16:43:05Z" finished-at="2019-07-03T16:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+      </class> <!-- airlinemainpage.aamain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
